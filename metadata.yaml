@@ -1,0 +1,30 @@
+_repo: Food-for-the-TravelerWhat-to-Eat-and-Why_27245
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27245-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roper, Dora C. C. L. (Dora Cathrine Cristine Liebel)
+    alias: Roper, Dora Cathrine Cristine Liebel
+    birthdate: 1873
+    gutenberg_agent_id: '32569'
+    url: http://www.gutenberg.org/2009/agents/32569
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2008-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+- !lcsh 'Menus'
+title: 'Food for the Traveler
+
+  What to Eat and Why'
+url: http://www.gutenberg.org/ebooks/27245
