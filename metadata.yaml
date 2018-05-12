@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32569'
     url: http://www.gutenberg.org/2009/agents/32569
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27245#Food-for-the-TravelerWhat-to-Eat-and-Why
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2008-11-12'
 gutenberg_type: Text
